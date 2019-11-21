@@ -217,9 +217,9 @@
     <Compile Include="Migrations\201911201823153_PopulateNames.designer.cs">
       <DependentUpon>201911201823153_PopulateNames.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201911211200408_AddBirthdate.cs" />
-    <Compile Include="Migrations\201911211200408_AddBirthdate.designer.cs">
-      <DependentUpon>201911211200408_AddBirthdate.cs</DependentUpon>
+    <Compile Include="Migrations\201911211751374_AddBirthDate.cs" />
+    <Compile Include="Migrations\201911211751374_AddBirthDate.designer.cs">
+      <DependentUpon>201911211751374_AddBirthDate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -316,8 +316,8 @@
     <EmbeddedResource Include="Migrations\201911201823153_PopulateNames.resx">
       <DependentUpon>201911201823153_PopulateNames.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201911211200408_AddBirthdate.resx">
-      <DependentUpon>201911211200408_AddBirthdate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201911211751374_AddBirthDate.resx">
+      <DependentUpon>201911211751374_AddBirthDate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
